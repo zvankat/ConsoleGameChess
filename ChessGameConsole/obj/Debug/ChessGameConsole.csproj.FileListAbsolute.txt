@@ -1,0 +1,7 @@
+C:\Users\vankatoo1\RiderProjects\ChessGameConsole\ChessGameConsole\bin\Debug\ChessGameConsole.exe
+C:\Users\vankatoo1\RiderProjects\ChessGameConsole\ChessGameConsole\bin\Debug\ChessGameConsole.pdb
+C:\Users\vankatoo1\RiderProjects\ChessGameConsole\ChessGameConsole\obj\Debug\ChessGameConsole.csproj.AssemblyReference.cache
+C:\Users\vankatoo1\RiderProjects\ChessGameConsole\ChessGameConsole\obj\Debug\ChessGameConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\vankatoo1\RiderProjects\ChessGameConsole\ChessGameConsole\obj\Debug\ChessGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\vankatoo1\RiderProjects\ChessGameConsole\ChessGameConsole\obj\Debug\ChessGameConsole.exe
+C:\Users\vankatoo1\RiderProjects\ChessGameConsole\ChessGameConsole\obj\Debug\ChessGameConsole.pdb
